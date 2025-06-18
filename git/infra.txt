@@ -1,3 +1,4 @@
 Infraestrutura inicial provisionada com Terraform
 Ambiente: DEV
 Status: OK
+Monitoramento com Prometheus e Grafana integrado
