@@ -1,0 +1,3 @@
+Infraestrutura inicial provisionada com Terraform
+Ambiente: DEV
+Status: OK
